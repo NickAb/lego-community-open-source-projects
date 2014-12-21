@@ -28,13 +28,7 @@ List of open source projects for and by the awesome LEGO community
 ## CAD tools
 
 ### LDD tools
-- [LDD to Ai Swatches](https://github.com/NickAb/ldd-to-ai-swatches) is a python script that converts Materials.xml form LEGODigital Designer into Adobe Illustrator swatchs file (.ase).
-
-- [LDDLifExtractor](https://github.com/bartvbl/LDDLifExtractor) is an extraction tool for the LEGODigital Designer assets files.
-
-- [LDDModelConverter](https://github.com/bartvbl/LDDModelConverter) a tool that converts .LXF and .LXFML files to .OBJ models.
-
-- [LibLDD](https://github.com/bartvbl/LibLDD) a java library containing classes to read a series of files of LEGODigital Designer.
+- [LDD to Ai Swatches](https://github.com/NickAb/ldd-to-ai-swatches) contains Adobe Illustrator swatch file with LEGO colors and a python script that converts Materials.xml form LEGODigital Designer into Adobe Illustrator swatchs file (.ase).
 
 ### LDraw tools
 - [LD Pattern Creator](http://sourceforge.net/projects/patterncreator/) is a vector based texture editor for decorated LDraw parts.
