@@ -22,6 +22,8 @@ List of open source projects for and by the awesome LEGO community
 
 - [Bricksmith](http://bricksmith.sourceforge.net) is an LDraw CAD program for creating virtual LEGO models. `OS X`
 
+- [Konstruktor](https://github.com/segfault87/Konstruktor) is an LDraw CAD program for creating virtual LEGO models. `Windows, Linux, and OS X`
+
 - [LeoCAD](http://www.leocad.org) is an LDraw CAD program for creating virtual LEGO models. `Windows, Linux, and OS X`
 
 
