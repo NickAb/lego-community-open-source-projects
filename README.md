@@ -9,6 +9,7 @@ List of open source projects for and by the awesome LEGO community
 	- [LDD tools](#ldd-tools)
 	- [LDraw tools](#ldraw-tools)
 	- [LDraw and LDD tools](#ldraw-and-ldd-tools)
+- [Miscellaneous Tools](#miscellaneous-tools)
 - [Decal designs](#decal-designs)
 
 ---
@@ -50,8 +51,11 @@ List of open source projects for and by the awesome LEGO community
 ### LDraw and LDD tools
 - [LEGOCAD Loader](https://github.com/someidiot/lego-cad-loader) is a python script that creates parts lists from LEGOLDD/LXF, LDR, MPD files. `Windows, Linux, and OS X`
 
+## Miscellaneous Tools
+- [brickowl2rebrickable](https://github.com/dgrant/brickowl2rebrickable) is a tool which converters BrickOwl.com orders into a Rebrickable CSV file. `Windows, Linux, and OS X`
+
 ## Decal designs
 - [Minifig SVG Decals](https://github.com/jpgerdeman/minifig-svg-decals) is a collection of SVG files for use as decals on LEGO Minifigs.
 
----
+- - -
 LEGO&reg; is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.
