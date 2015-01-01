@@ -49,6 +49,8 @@ List of open source projects for and by the awesome LEGO community
 - [LSynth](http://lsynth.sourceforge.net) is a tool which allows you to add complicated flexible hoses, bands, chains, and treads to the LDraw files you make with LDraw CADs. `Windows, OS X`
 
 ### LDraw and LDD tools
+- [BrickUtils](http://sourceforge.net/projects/brickutils/) is a tool which allows you to build your brick catalog and check if you can build a model created with LDD or LDraw, it can also export list of bricks you need to buy in format of BrickLink xml file. `Windows, Linux, and OS X`
+
 - [LEGOCAD Loader](https://github.com/someidiot/lego-cad-loader) is a python script that creates parts lists from LEGOLDD/LXF, LDR, MPD files. `Windows, Linux, and OS X`
 
 ## Miscellaneous Tools
