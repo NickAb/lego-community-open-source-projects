@@ -10,6 +10,7 @@ List of open source projects for and by the awesome LEGO community
 	- [LDraw tools](#ldraw-tools)
 	- [LDraw and LDD tools](#ldraw-and-ldd-tools)
 - [Miscellaneous Tools](#miscellaneous-tools)
+- [Mosaics](#mosaics)
 - [Decal designs](#decal-designs)
 
 ---
@@ -55,6 +56,9 @@ List of open source projects for and by the awesome LEGO community
 
 ## Miscellaneous Tools
 - [brickowl2rebrickable](https://github.com/dgrant/brickowl2rebrickable) is a tool which converters BrickOwl.com orders into a Rebrickable CSV file. `Windows, Linux, and OS X`
+
+## Mosaics
+- [BrickMosaic](http://sourceforge.net/projects/brickmosaic/) is a tool which transform photo to LEGO bricks mosaic.`Windows, Linux, and OS X`
 
 ## Decal designs
 - [Minifig SVG Decals](https://github.com/jpgerdeman/minifig-svg-decals) is a collection of SVG files for use as decals on LEGO Minifigs.
